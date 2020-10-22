@@ -1,0 +1,24 @@
+ input
+ {
+     transition: 1s all;
+ }
+ input:focus
+{
+    border:none ;
+    border-bottom: 3px solid #333;
+}
+.stepContainer
+{
+    height:auto !important
+}
+.to_do li{
+    background-color: rgb(248, 244, 244) !important;
+}
+.x_content
+{
+    font-size: 1.2rem;;
+}
+
+i{
+    cursor: pointer;
+}
